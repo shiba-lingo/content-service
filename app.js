@@ -19,7 +19,7 @@ mongoose.connect(MONGO_URL)
     .then(() => console.log('Successfully connected to MongoDB!'))
     .catch(err => console.error('MongoDB connection error:', err));
 
-app.use('/api', routes);
+app.use('/contents', routes);
 
 app.listen(PORT, () => {
     console.log(`Server running on port ${PORT}`);
