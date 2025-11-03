@@ -3,70 +3,80 @@
     "title": "The Basics of Binary Code",
     "content": "Binary code is the fundamental language of computers. It uses only two symbols, 0 and 1, to represent all data. Each 0 or 1 is called a bit, and eight bits together form a byte, which can represent a single character, like the letter 'A' or the number '5'. Understanding binary is the first step to understanding how digital machines operate and store information efficiently.",
     "category": "Technology",
-    "english_level": "Easy",
-    "author": "Ava Sharma"
+    "level": "easy",
+    "summary": "this is summary Ava Sharma",
+    "source_id": "6909137e0e13931001724fec"
   },
   {
     "title": "A Day in Ancient Rome",
     "content": "Imagine waking up in Rome 2,000 years ago. Most people wore simple tunics. Breakfast was often just bread and water. The day was spent working, shopping in the Forum, or relaxing at the public baths. Children learned Latin and math. The rich ate big dinners, while the poor ate simple porridge. Life was very different then, but family and community were still important.",
     "category": "History",
-    "english_level": "Easy",
-    "author": "Liam Chen"
+    "level": "easy",
+    "summary": "this is summary Liam Chen",
+    "source_id": "6909137e0e13931001724fec"
   },
   {
     "title": "The Age of Exploration and Cartography",
     "content": "The Age of Exploration, spanning the 15th to 17th centuries, dramatically reshaped global understanding. Driven by trade, curiosity, and competition, European navigators charted unknown territories. This era led to breakthroughs in cartography. New maps, increasingly accurate due to advancements in navigation tools like the astrolabe and magnetic compass, challenged old world views and connected previously isolated continents, resulting in profound demographic and economic changes.",
     "category": "History",
-    "english_level": "Medium",
-    "author": "Dr. Ben Carter"
+    "level": "medium",
+    "summary": "this is summary Dr. Ben Carter",
+    "source_id": "6909137e0e13931001724fec"
   },
   {
     "title": "The Fall of Constantinople: A Turning Point",
     "content": "The capture of Constantinople by the Ottoman Turks in 1453 is often cited as a pivotal moment marking the end of the Middle Ages. The event had far-reaching consequences, including the closure of major overland trade routes to the East, spurring European powers to seek new maritime routes, which in turn accelerated the Age of Discovery and the Renaissance.",
     "category": "History",
-    "english_level": "Hard",
-    "author": "Historian P."
+    "level": "hard",
+    "summary": "this is summary Historian P.",
+    "source_id": "6909137e0e13931001724fec"
   },
   {
     "title": "The Rise of Cloud Computing Infrastructure",
     "content": "Cloud computing, epitomized by services like AWS, Azure, and GCP, relies on massive data centers that offer resources on demand. This infrastructure abstracts away the complexity of managing physical hardware, offering elasticity and scalability. Understanding the differences between IaaS, PaaS, and SaaS models is fundamental to modern software deployment and enterprise architecture, representing a significant shift from localized servers to globally distributed resources.",
     "category": "Technology",
-    "english_level": "Medium",
-    "author": "Tech Analyst"
+    "level": "medium",
+    "summary": "this is summary Tech Analyst",
+    "source_id": "6909137e0e13931001724fec"
   },
   {
     "title": "Understanding Quantum Computing Potential",
     "content": "Quantum computing represents a paradigm shift from classical computation. Unlike traditional bits that are either 0 or 1, quantum bits (qubits) can exist in a superposition of both states simultaneously. This property, combined with entanglement, allows quantum machines to process vastly more information and potentially solve problems (like factorization and molecular modeling) that are intractable for even the most powerful supercomputers today. The engineering challenges remain immense, but the theoretical promise is transformative.",
     "category": "Technology",
-    "english_level": "Hard",
-    "author": "Prof. R. Krishna"
+    "level": "hard",
+    "summary": "this is summary Prof. R. Krishna",
+    "source_id": "6909137e0e13931001724fec"
   },
   {
     "title": "What is a Basic Software Algorithm?",
     "content": "An algorithm is simply a step-by-step set of instructions designed to solve a problem or perform a calculation. In programming, algorithms are the foundation of every function. Even something as simple as sorting a list of numbers or checking if a number is odd or even requires a precise algorithm. The efficiency of an algorithm is often measured by how quickly it completes its task.",
     "category": "Technology",
-    "english_level": "Easy",
-    "author": "Coder Kid"
+    "level": "easy",
+    "summary": "this is summary Coder Kid",
+    "source_id": "6909137e0e13931001724fec"
   },
   {
     "title": "Recent Advances in Sustainable Energy Grids",
     "content": "The transition to sustainable energy is accelerating, driven by innovations in grid technology. Modern grids are moving toward decentralization, relying on distributed energy resources like rooftop solar and local wind farms. Smart grid technologies, employing AI and machine learning, are now crucial for managing the intermittent nature of renewables, ensuring reliability, and optimizing energy flow across complex networks. This shift demands new regulatory frameworks and substantial infrastructure investment.",
     "category": "Technology",
-    "english_level": "Hard",
-    "author": "Alex Kim"
+    "level": "hard",
+    "summary": "this is summary Alex Kim",
+    "source_id": "6909137e0e13931001724fec"
   },
   {
     "title": "The Neolithic Revolution and Farming",
     "content": "The Neolithic Revolution, which began around 10,000 BCE, marks the shift from a hunter-gatherer lifestyle to a settled, agricultural one. This development, characterized by the domestication of plants and animals, led to the formation of permanent settlements, population growth, and the eventual development of complex societies. It is considered one of the most profound turning points in human history.",
     "category": "History",
-    "english_level": "Medium",
-    "author": "Ancient History Team"
+    "level": "medium",
+    "summary": "this is summary Ancient History Team",
+    "source_id": "6909137e0e13931001724fec"
   },
   {
     "title": "The Impact of the Printing Press on Literacy",
     "content": "Gutenberg’s invention of the movable-type printing press in the 15th century fundamentally changed European society. Prior to this, books were copied by hand, making them rare and expensive. The printing press lowered the cost of books, increased their production speed, and led to a sharp rise in literacy rates across the continent. This accessibility of knowledge fueled the Renaissance and the Scientific Revolution.",
     "category": "History",
-    "english_level": "Medium",
-    "author": "Rhetorica"
+    "level": "medium",
+    "summary": "this is summary Rhetorica",
+    "source_id": "6909137e0e13931001724fec"
   }
 ]
