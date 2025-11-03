@@ -3,26 +3,49 @@ import Article from './article.js';
 
 class ArticleRepository {
     async create(data) {
-
-        const article = new Article(data);
-        return article.save();
+        try {
+            const article = new Article(data);
+            return article.save();
+        } catch (error) {
+            console.error(error.error);
+            return null;
+        }
     }
 
     async findById(id) {
-        return Article.findById(id);
+        try {
+            return Article.findById(id);
+        } catch (error) {
+            console.error(error.error);
+            return null;
+        }
     }
 
     async find(query) {
-        console.log('in findAll', Article.collection.name, query);
-        return Article.find(query);
+        try {
+            return Article.find(query);
+        } catch (error) {
+            console.error(error.error);
+            return null;
+        }
     }
 
-    async findOneAndUpdate(query, newData) {
-        return Article.findOneAndUpdate(query, newData, {new: true});
+    async updateById(id, newData) {
+        try {
+            return Article.findOneAndUpdate({_id: this.getObjectId(id)}, newData, {new: false});
+        } catch (error) {
+            console.error(error.error);
+            return null;
+        }
     }
 
     async delete(id) {
-        return Article.findByIdAndDelete(id);
+        try {
+            return Article.findByIdAndDelete(id);
+        } catch (error) {
+            console.error(error.error);
+            return null;
+        }
     }
 
     getObjectId(id) {
