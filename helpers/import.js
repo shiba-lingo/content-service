@@ -18,7 +18,6 @@ async function main() {
 
         const database = client.db(dbName);
         await importData(database.collection('articles'), articleFile)
-        await importData(database.collection('users'), userFile)
 
     } catch (error) {
         console.error('There has been an error:', error);
