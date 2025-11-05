@@ -1,5 +1,5 @@
-import articleRepository from "../data/articleRepository.js";
-import SourceArticle from "../data/sourceArticle.js";
+import articleRepository from "../model/articleRepository.js";
+import SourceArticle from "../model/sourceArticle.js";
 
 class ContentController {
     async create(req, res) {
@@ -29,7 +29,7 @@ class ContentController {
             const id = req.params.id;
             const updatedData = req.body;
             if (!id || Object.keys(updatedData).length === 0) {
-                return res.status(400).json({ message: 'Article id and updated data are required' });
+                return res.status(400).json({ message: 'Article id and updated model are required' });
             }
 
             const article = await articleRepository.updateById(id, updatedData);
