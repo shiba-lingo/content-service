@@ -14,7 +14,7 @@ const sourceArticleSchema = new Schema({
         required: [true, 'Article content is required.'],
     },
 
-    source_url: {
+    sourceUrl: {
         type: String,
         required: [true, 'source_url is required.'],
     },
@@ -28,7 +28,7 @@ const sourceArticleSchema = new Schema({
         },
     },
 
-    published_at: { type: Date },
+    publishedAt: { type: Date },
 }, { timestamps: true, versionKey: false });
 
 

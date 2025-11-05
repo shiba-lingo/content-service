@@ -5,7 +5,7 @@
     "category": "Technology",
     "level": "easy",
     "summary": "this is summary Ava Sharma",
-    "source_id": "6909137e0e13931001724fec"
+    "sourceId": "6909137e0e13931001724fec"
   },
   {
     "title": "A Day in Ancient Rome",
@@ -13,7 +13,7 @@
     "category": "History",
     "level": "easy",
     "summary": "this is summary Liam Chen",
-    "source_id": "6909137e0e13931001724fec"
+    "sourceId": "6909137e0e13931001724fec"
   },
   {
     "title": "The Age of Exploration and Cartography",
@@ -21,7 +21,7 @@
     "category": "History",
     "level": "medium",
     "summary": "this is summary Dr. Ben Carter",
-    "source_id": "6909137e0e13931001724fec"
+    "sourceId": "6909137e0e13931001724fec"
   },
   {
     "title": "The Fall of Constantinople: A Turning Point",
@@ -29,7 +29,7 @@
     "category": "History",
     "level": "hard",
     "summary": "this is summary Historian P.",
-    "source_id": "6909137e0e13931001724fec"
+    "sourceId": "6909137e0e13931001724fec"
   },
   {
     "title": "The Rise of Cloud Computing Infrastructure",
@@ -37,7 +37,7 @@
     "category": "Technology",
     "level": "medium",
     "summary": "this is summary Tech Analyst",
-    "source_id": "6909137e0e13931001724fec"
+    "sourceId": "6909137e0e13931001724fec"
   },
   {
     "title": "Understanding Quantum Computing Potential",
@@ -45,7 +45,7 @@
     "category": "Technology",
     "level": "hard",
     "summary": "this is summary Prof. R. Krishna",
-    "source_id": "6909137e0e13931001724fec"
+    "sourceId": "6909137e0e13931001724fec"
   },
   {
     "title": "What is a Basic Software Algorithm?",
@@ -53,7 +53,7 @@
     "category": "Technology",
     "level": "easy",
     "summary": "this is summary Coder Kid",
-    "source_id": "6909137e0e13931001724fec"
+    "sourceId": "6909137e0e13931001724fec"
   },
   {
     "title": "Recent Advances in Sustainable Energy Grids",
@@ -61,7 +61,7 @@
     "category": "Technology",
     "level": "hard",
     "summary": "this is summary Alex Kim",
-    "source_id": "6909137e0e13931001724fec"
+    "sourceId": "6909137e0e13931001724fec"
   },
   {
     "title": "The Neolithic Revolution and Farming",
@@ -69,7 +69,7 @@
     "category": "History",
     "level": "medium",
     "summary": "this is summary Ancient History Team",
-    "source_id": "6909137e0e13931001724fec"
+    "sourceId": "6909137e0e13931001724fec"
   },
   {
     "title": "The Impact of the Printing Press on Literacy",
@@ -77,6 +77,6 @@
     "category": "History",
     "level": "medium",
     "summary": "this is summary Rhetorica",
-    "source_id": "6909137e0e13931001724fec"
+    "sourceId": "6909137e0e13931001724fec"
   }
 ]

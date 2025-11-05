@@ -38,7 +38,7 @@ const articleSchema = new Schema({
         },
     },
 
-    source_id: {
+    sourceId: {
         type: Types.ObjectId,
         required: [true, 'SourceId is required.'],
     }
