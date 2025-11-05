@@ -72,7 +72,7 @@ This is the main data model for articles stored in the `articles` collection.
     * Type: `String`
     * Required: Yes
     * Validation (Enum): Must be one of `easy`, `medium`, or `hard`.
-* **source\_id**
+* **sourceId**
     * Type: `Types.ObjectId`
     * Required: Yes
 
@@ -89,14 +89,14 @@ This is the data model for source articles stored in the `sourceArticle` collect
 * **content**
     * Type: `String`
     * Required: Yes
-* **source\_url**
+* **sourceUrl**
     * Type: `String`
     * Required: Yes
 * **source**
     * Type: `String`
     * Required: Yes
     * Validation (Enum): Must be one of `BBC`.
-* **published\_at**
+* **publishedAt**
     * Type: `Date`
     * Required: No
 
