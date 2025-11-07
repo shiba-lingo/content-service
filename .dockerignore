@@ -1,0 +1,25 @@
+# Ignore local dependencies, as they will be installed in the container
+node_modules/
+
+# Ignore local environment variables
+.env
+.env*
+
+# Ignore build output and logs
+dist/
+build/
+*.log
+
+# Ignore Git version control files
+.git/
+.gitignore
+
+# Ignore this file itself
+.dockerignore
+Dockerfile
+
+# Ignore IDE
+.vscode
+.idea
+.DS_Store
+Thumbs.db
