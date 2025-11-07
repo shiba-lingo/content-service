@@ -9,7 +9,7 @@ RUN npm install --production
 # Copy the rest of your application files
 COPY . .
 # Expose the port your app runs on
-EXPOSE 3000
+EXPOSE 3002
 # EXPOSE 8080 # when deploy it to gcp
 
 # Define the command to run
