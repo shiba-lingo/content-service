@@ -21,12 +21,8 @@ Follow these instructions to get a local copy up and running for development and
 2. **Set up environment variables:**
     Create a file named `.env` in the root of the project and add the following variables.
     ```.env
-    # The connection string for your MongoDB database
     MONGO_URL=mongodb://localhost:27017/your_db_name
-    DB_NAME=your_db_name
-    
-    # The port you want the server to run on
-    PORT=3000
+    PORT=3002
     ```
 
 3. **Start the server:**
@@ -34,6 +30,21 @@ Follow these instructions to get a local copy up and running for development and
     npm start
     ```
     The server should now be running and connected to MongoDB, accessible at `http://localhost:3000`.
+
+4. **Run Container:**
+
+   Create the docker container with:
+    ```bash
+    docker build -t shiba-content:latest .
+    ```
+   Run container
+    ```bash
+    docker run -d -p 3002:3002 \
+    -e PORT=3002 \
+    -e MONGO_URL="your_actual_db_url" \
+    shiba-content:latest
+    ```
+
 
 ## <caption> API Endpoints
 
@@ -95,7 +106,7 @@ This is the data model for source articles stored in the `sourceArticle` collect
 * **source**
     * Type: `String`
     * Required: Yes
-    * Validation (Enum): Must be one of `BBC`.
+    * Validation (Enum): Must be one of `bbc`.
 * **publishedAt**
     * Type: `Date`
     * Required: No

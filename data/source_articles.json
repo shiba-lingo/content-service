@@ -1,0 +1,22 @@
+[
+  {
+    "_id": {
+      "$oid": "690cffb4ac9900d45e88b043"
+    },
+    "title": "These 40 US airports may face flight reductions during government shutdown",
+    "content": "US officials plan to reduce the number of flights at 40 of the country's busiest airports as part of measures to ease pressure on air traffic controllers.US control towers are experiencing absences as air traffic controllers call in sick because they are working without pay.Hundreds of thousands of federal workers are not receiving pay cheques because lawmakers have not been able to pass a budget. On Wednesday, the federal government funding impasse became the longest shutdown in US history.The Federal Aviation Administration has not formally announced which airports will have their capacity cut, but here is the full list, according to US media. International flights would face no cuts.\n\nAnchorage International (ANC)Hartsfield-Jackson Atlanta International (ATL)Boston Logan International (BOS)Baltimore/Washington International (BWI)Charlotte Douglas International (CLT)Cincinnati/Northern Kentucky International (CVG)Dallas Love Field (DAL)Ronald Reagan Washington National (DCA)Denver International in Colorado (DEN)Dallas/Fort Worth International (DFW)Detroit Metropolitan Wayne County (DTW)Newark Liberty International (EWR)Fort Lauderdale/Hollywood International (FLL)Honolulu International (HNL)Houston Hobby (HOU)Washington Dulles International (IAD)George Bush Houston Intercontinental (IAH)Indianapolis International (IND)New York John F Kennedy International (JFK)Las Vegas Harry Reid International (LAS)Los Angeles International (LAX)New York LaGuardia (LGA)Orlando International (MCO)Chicago Midway (MDW)Memphis International (MEM)Miami International (MIA)Minneapolis/St Paul International (MSP)Oakland International (OAK)Ontario International in California (ONT)Chicago O'Hare International (ORD)Portland International (PDX)Philadelphia International (PHL)Phoenix Sky Harbor International (PHX)San Diego International (SAN)Louisville International (SDF)Seattle/Tacoma International (SEA)San Francisco International (SFO)Salt Lake City International (SLC)Teterboro in New Jersey (TEB)Tampa International (TPA)",
+    "category": "news",
+    "source": "bbc",
+    "sourceUrl": "https://bbc.com/news/articles/cx2p4gjwmxko",
+    "summary": "US officials plan to reduce domestic flight capacity at 40 of the country's busiest airports to ease pressure on air traffic controllers who are calling in sick due to working without pay during the ongoing federal government funding impasse.",
+    "publishAt": {
+      "$date": "2025-11-06T19:43:34.796Z"
+    },
+    "createdAt": {
+      "$date": "2025-11-06T20:06:12.312Z"
+    },
+    "updatedAt": {
+      "$date": "2025-11-06T20:06:17.743Z"
+    }
+  }
+]

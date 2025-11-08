@@ -1,82 +1,59 @@
 [
   {
-    "title": "The Basics of Binary Code",
-    "content": "Binary code is the fundamental language of computers. It uses only two symbols, 0 and 1, to represent all data. Each 0 or 1 is called a bit, and eight bits together form a byte, which can represent a single character, like the letter 'A' or the number '5'. Understanding binary is the first step to understanding how digital machines operate and store information efficiently.",
-    "category": "Technology",
-    "level": "easy",
-    "summary": "this is summary Ava Sharma",
-    "sourceId": "6909137e0e13931001724fec"
-  },
-  {
-    "title": "A Day in Ancient Rome",
-    "content": "Imagine waking up in Rome 2,000 years ago. Most people wore simple tunics. Breakfast was often just bread and water. The day was spent working, shopping in the Forum, or relaxing at the public baths. Children learned Latin and math. The rich ate big dinners, while the poor ate simple porridge. Life was very different then, but family and community were still important.",
-    "category": "History",
-    "level": "easy",
-    "summary": "this is summary Liam Chen",
-    "sourceId": "6909137e0e13931001724fec"
-  },
-  {
-    "title": "The Age of Exploration and Cartography",
-    "content": "The Age of Exploration, spanning the 15th to 17th centuries, dramatically reshaped global understanding. Driven by trade, curiosity, and competition, European navigators charted unknown territories. This era led to breakthroughs in cartography. New maps, increasingly accurate due to advancements in navigation tools like the astrolabe and magnetic compass, challenged old world views and connected previously isolated continents, resulting in profound demographic and economic changes.",
-    "category": "History",
-    "level": "medium",
-    "summary": "this is summary Dr. Ben Carter",
-    "sourceId": "6909137e0e13931001724fec"
-  },
-  {
-    "title": "The Fall of Constantinople: A Turning Point",
-    "content": "The capture of Constantinople by the Ottoman Turks in 1453 is often cited as a pivotal moment marking the end of the Middle Ages. The event had far-reaching consequences, including the closure of major overland trade routes to the East, spurring European powers to seek new maritime routes, which in turn accelerated the Age of Discovery and the Renaissance.",
-    "category": "History",
+    "_id": {
+      "$oid": "690cffc3f5f2b42ccab87cb2"
+    },
+    "title": "These 40 US airports may face flight reductions during government shutdown",
+    "content": "A contingent of United States federal authorities is poised to curtail the volume of air traffic at forty of the nation’s most heavily utilized aerodromes, an intervention designed to alleviate the systemic strain currently afflicting the air traffic control infrastructure. The operational integrity of US control towers has been demonstrably compromised by widespread absenteeism, attributable directly to controllers engaging in sick leave maneuvers because of their uncompensated service.\n\nThe genesis of this operational crisis lies in the legislative body's failure to enact an appropriations bill, a fiscal lapse that has resulted in hundreds of thousands of federal employees being deprived of their customary remuneration. It was this very funding deadlock which, as of Wednesday, metastasized into the protracted governmental cessation of operations in the annals of US history.\n\nThough the Federal Aviation Administration (FAA) has yet to formally promulgate the specific facilities slated for reduced throughput, the complete roster, as disseminated by reliable US media outlets, is herewith appended. Crucially, international routes remain wholly exempt from these capacity reductions.\n\nThe forty airports designated for these proposed capacity adjustments are:\n\nAnchorage International (ANC), Hartsfield-Jackson Atlanta International (ATL), Boston Logan International (BOS), Baltimore/Washington International (BWI), Charlotte Douglas International (CLT), Cincinnati/Northern Kentucky International (CVG), Dallas Love Field (DAL), Ronald Reagan Washington National (DCA), Denver International in Colorado (DEN), Dallas/Fort Worth International (DFW), Detroit Metropolitan Wayne County (DTW), Newark Liberty International (EWR), Fort Lauderdale/Hollywood International (FLL), Honolulu International (HNL), Houston Hobby (HOU), Washington Dulles International (IAD), George Bush Houston Intercontinental (IAH), Indianapolis International (IND), New York John F Kennedy International (JFK), Las Vegas Harry Reid International (LAS), Los Angeles International (LAX), New York LaGuardia (LGA), Orlando International (MCO), Chicago Midway (MDW), Memphis International (MEM), Miami International (MIA), Minneapolis/St Paul International (MSP), Oakland International (OAK), Ontario International in California (ONT), Chicago O'Hare International (ORD), Portland International (PDX), Philadelphia International (PHL), Phoenix Sky Harbor International (PHX), San Diego International (SAN), Louisville International (SDF), Seattle/Tacoma International (SEA), San Francisco International (SFO), Salt Lake City International (SLC), Teterboro in New Jersey (TEB), and Tampa International (TPA).",
+    "category": "news",
+    "sourceId": {
+      "$oid": "690cffb4ac9900d45e88b043"
+    },
     "level": "hard",
-    "summary": "this is summary Historian P.",
-    "sourceId": "6909137e0e13931001724fec"
+    "summary": "US officials plan to reduce domestic flight capacity at 40 of the country's busiest airports to ease pressure on air traffic controllers who are calling in sick due to working without pay during the ongoing federal government funding impasse.",
+    "createdAt": {
+      "$date": "2025-11-06T20:06:27.743Z"
+    },
+    "updatedAt": {
+      "$date": "2025-11-06T20:06:27.743Z"
+    }
   },
   {
-    "title": "The Rise of Cloud Computing Infrastructure",
-    "content": "Cloud computing, epitomized by services like AWS, Azure, and GCP, relies on massive data centers that offer resources on demand. This infrastructure abstracts away the complexity of managing physical hardware, offering elasticity and scalability. Understanding the differences between IaaS, PaaS, and SaaS models is fundamental to modern software deployment and enterprise architecture, representing a significant shift from localized servers to globally distributed resources.",
-    "category": "Technology",
+    "_id": {
+      "$oid": "690cffc33a4647e91e937b89"
+    },
+    "title": "These 40 US airports may face flight reductions during government shutdown",
+    "content": "US officials are making plans to reduce the number of flights at 40 of the nation's busiest airports. This action is necessary to lessen the pressure on air traffic controllers who are currently facing difficulties.\n\nAir traffic controllers are working without pay, which is leading to absences in US control towers as many controllers call in sick. Hundreds of thousands of federal workers are not getting their pay cheques because lawmakers have not been able to pass a budget. This disagreement over government funding became the longest shutdown in US history on Wednesday.\n\nThe Federal Aviation Administration (FAA) has not yet formally announced which airports will have fewer flights. However, US media sources have published the complete list. It is important to note that international flights will not be cut.\n\nHere is the full list of the 40 airports, according to US media:\n\nAnchorage International (ANC), Hartsfield-Jackson Atlanta International (ATL), Boston Logan International (BOS), Baltimore/Washington International (BWI), Charlotte Douglas International (CLT), Cincinnati/Northern Kentucky International (CVG), Dallas Love Field (DAL), Ronald Reagan Washington National (DCA), Denver International in Colorado (DEN), Dallas/Fort Worth International (DFW), Detroit Metropolitan Wayne County (DTW), Newark Liberty International (EWR), Fort Lauderdale/Hollywood International (FLL), Honolulu International (HNL), Houston Hobby (HOU), Washington Dulles International (IAD), George Bush Houston Intercontinental (IAH), Indianapolis International (IND), New York John F Kennedy International (JFK), Las Vegas Harry Reid International (LAS), Los Angeles International (LAX), New York LaGuardia (LGA), Orlando International (MCO), Chicago Midway (MDW), Memphis International (MEM), Miami International (MIA), Minneapolis/St Paul International (MSP), Oakland International (OAK), Ontario International in California (ONT), Chicago O'Hare International (ORD), Portland International (PDX), Philadelphia International (PHL), Phoenix Sky Harbor International (PHX), San Diego International (SAN), Louisville International (SDF), Seattle/Tacoma International (SEA), San Francisco International (SFO), Salt Lake City International (SLC), Teterboro in New Jersey (TEB), and Tampa International (TPA).",
+    "category": "news",
+    "sourceId": {
+      "$oid": "690cffb4ac9900d45e88b043"
+    },
     "level": "medium",
-    "summary": "this is summary Tech Analyst",
-    "sourceId": "6909137e0e13931001724fec"
+    "summary": "US officials plan to reduce domestic flight capacity at 40 of the country's busiest airports to ease pressure on air traffic controllers who are calling in sick due to working without pay during the ongoing federal government funding impasse.",
+    "createdAt": {
+      "$date": "2025-11-06T20:06:27.465Z"
+    },
+    "updatedAt": {
+      "$date": "2025-11-06T20:06:27.465Z"
+    }
   },
   {
-    "title": "Understanding Quantum Computing Potential",
-    "content": "Quantum computing represents a paradigm shift from classical computation. Unlike traditional bits that are either 0 or 1, quantum bits (qubits) can exist in a superposition of both states simultaneously. This property, combined with entanglement, allows quantum machines to process vastly more information and potentially solve problems (like factorization and molecular modeling) that are intractable for even the most powerful supercomputers today. The engineering challenges remain immense, but the theoretical promise is transformative.",
-    "category": "Technology",
-    "level": "hard",
-    "summary": "this is summary Prof. R. Krishna",
-    "sourceId": "6909137e0e13931001724fec"
-  },
-  {
-    "title": "What is a Basic Software Algorithm?",
-    "content": "An algorithm is simply a step-by-step set of instructions designed to solve a problem or perform a calculation. In programming, algorithms are the foundation of every function. Even something as simple as sorting a list of numbers or checking if a number is odd or even requires a precise algorithm. The efficiency of an algorithm is often measured by how quickly it completes its task.",
-    "category": "Technology",
+    "_id": {
+      "$oid": "690cffc36719accd8aa5f0e5"
+    },
+    "title": "These 40 US airports may face flight reductions during government shutdown",
+    "content": "US officials want fewer airplane flights.\nThey plan to cut flights at 40 very busy airports.\nThis will help the air traffic controllers.\n\nMany controllers are not coming to work.\nThey call in sick often.\nThey do not get paid for their work right now.\n\nThe US government has stopped working.\nLawmakers could not agree on a budget for money.\nHundreds of thousands of federal workers are not getting paid.\nOn Wednesday, this became the longest government stop in US history.\n\nThe Federal Aviation Administration (FAA) did not formally name the airports yet.\nBut US news media has the full list.\nFlights that go to other countries will not be cut.\n\nThe airports are:\n\nAnchorage International (ANC)\nHartsfield-Jackson Atlanta International (ATL)\nBoston Logan International (BOS)\nBaltimore/Washington International (BWI)\nCharlotte Douglas International (CLT)\nCincinnati/Northern Kentucky International (CVG)\nDallas Love Field (DAL)\nRonald Reagan Washington National (DCA)\nDenver International in Colorado (DEN)\nDallas/Fort Worth International (DFW)\nDetroit Metropolitan Wayne County (DTW)\nNewark Liberty International (EWR)\nFort Lauderdale/Hollywood International (FLL)\nHonolulu International (HNL)\nHouston Hobby (HOU)\nWashington Dulles International (IAD)\nGeorge Bush Houston Intercontinental (IAH)\nIndianapolis International (IND)\nNew York John F Kennedy International (JFK)\nLas Vegas Harry Reid International (LAS)\nLos Angeles International (LAX)\nNew York LaGuardia (LGA)\nOrlando International (MCO)\nChicago Midway (MDW)\nMemphis International (MEM)\nMiami International (MIA)\nMinneapolis/St Paul International (MSP)\nOakland International (OAK)\nOntario International in California (ONT)\nChicago O'Hare International (ORD)\nPortland International (PDX)\nPhiladelphia International (PHL)\nPhoenix Sky Harbor International (PHX)\nSan Diego International (SAN)\nLouisville International (SDF)\nSeattle/Tacoma International (SEA)\nSan Francisco International (SFO)\nSalt Lake City International (SLC)\nTeterboro in New Jersey (TEB)\nTampa International (TPA)",
+    "category": "news",
+    "sourceId": {
+      "$oid": "690cffb4ac9900d45e88b043"
+    },
     "level": "easy",
-    "summary": "this is summary Coder Kid",
-    "sourceId": "6909137e0e13931001724fec"
-  },
-  {
-    "title": "Recent Advances in Sustainable Energy Grids",
-    "content": "The transition to sustainable energy is accelerating, driven by innovations in grid technology. Modern grids are moving toward decentralization, relying on distributed energy resources like rooftop solar and local wind farms. Smart grid technologies, employing AI and machine learning, are now crucial for managing the intermittent nature of renewables, ensuring reliability, and optimizing energy flow across complex networks. This shift demands new regulatory frameworks and substantial infrastructure investment.",
-    "category": "Technology",
-    "level": "hard",
-    "summary": "this is summary Alex Kim",
-    "sourceId": "6909137e0e13931001724fec"
-  },
-  {
-    "title": "The Neolithic Revolution and Farming",
-    "content": "The Neolithic Revolution, which began around 10,000 BCE, marks the shift from a hunter-gatherer lifestyle to a settled, agricultural one. This development, characterized by the domestication of plants and animals, led to the formation of permanent settlements, population growth, and the eventual development of complex societies. It is considered one of the most profound turning points in human history.",
-    "category": "History",
-    "level": "medium",
-    "summary": "this is summary Ancient History Team",
-    "sourceId": "6909137e0e13931001724fec"
-  },
-  {
-    "title": "The Impact of the Printing Press on Literacy",
-    "content": "Gutenberg’s invention of the movable-type printing press in the 15th century fundamentally changed European society. Prior to this, books were copied by hand, making them rare and expensive. The printing press lowered the cost of books, increased their production speed, and led to a sharp rise in literacy rates across the continent. This accessibility of knowledge fueled the Renaissance and the Scientific Revolution.",
-    "category": "History",
-    "level": "medium",
-    "summary": "this is summary Rhetorica",
-    "sourceId": "6909137e0e13931001724fec"
+    "summary": "US officials plan to reduce domestic flight capacity at 40 of the country's busiest airports to ease pressure on air traffic controllers who are calling in sick due to working without pay during the ongoing federal government funding impasse.",
+    "createdAt": {
+      "$date": "2025-11-06T20:06:27.378Z"
+    },
+    "updatedAt": {
+      "$date": "2025-11-06T20:06:27.378Z"
+    }
   }
 ]
