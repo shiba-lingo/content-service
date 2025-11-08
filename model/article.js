@@ -20,6 +20,10 @@ const articleSchema = new Schema({
         required: [true, 'Article content is required.'],
     },
 
+    imageUrl: {
+        type: String,
+    },
+
     category: {
         type: String,
         required: [true, 'Category is required.'],

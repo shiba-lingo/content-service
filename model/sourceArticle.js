@@ -19,6 +19,10 @@ const sourceArticleSchema = new Schema({
         required: [true, 'source_url is required.'],
     },
 
+    imageUrl: {
+        type: String,
+    },
+
     source: {
         type: String,
         required: [true, 'source is required.'],
