@@ -1,9 +1,10 @@
-
 import express from 'express';
-import routes from "./routes.js";
+import contentRouter from "./routes.js";
 import mongoose from "mongoose";
 import cors from 'cors';
 import dotenv from 'dotenv';
+import swaggerUi from "swagger-ui-express";
+import swaggerSpec from "./config/swagger.js";
 
 dotenv.config();
 
@@ -19,7 +20,8 @@ mongoose.connect(MONGO_URL)
     .then(() => console.log('Successfully connected to MongoDB!'))
     .catch(err => console.error('MongoDB connection error:', err));
 
-app.use('/contents', routes);
+app.use('/contents', contentRouter);
+app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerSpec));
 
 app.listen(PORT, () => {
     console.log(`Server running on port ${PORT}`);
