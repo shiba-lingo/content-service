@@ -4,7 +4,7 @@ import mongoose from "mongoose";
 import cors from 'cors';
 import dotenv from 'dotenv';
 import swaggerUi from "swagger-ui-express";
-import swaggerSpec from "./swagger.js";
+import swaggerSpec from "./config/swagger.js";
 
 dotenv.config();
 
