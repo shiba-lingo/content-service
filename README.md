@@ -48,16 +48,18 @@ Follow these instructions to get a local copy up and running for development and
 
 ## <caption> API Endpoints
 
-All endpoints are prefixed with `/contents`.
+- Swagger API endpoints: `/api-doc`.
 
-| Method | Endpoint | Description | Request Body/Query Params |
-| :--- | :--- | :--- | :--- |
-| `POST` | `/` | Creates a new article. | **Body:** (See Article Schema) |
-| `GET` | `/` | Gets all articles. Can be filtered. | **Query Params (Optional):** <br> `?level=easy` <br> `?category=technology` |
-| `GET` | `/:id` | Gets a single article by its ID. | |
-| `PUT` | `/:id` | Updates an article by its ID. | **Body:** `{ "title": "New Title", ... }` |
+- All endpoints are prefixed with `/contents`.
+
+| Method   | Endpoint | Description | Request Body/Query Params |
+|:---------| :--- | :--- | :--- |
+| `POST`   | `/` | Creates a new article. | **Body:** (See Article Schema) |
+| `GET`    | `/` | Gets all articles. Can be filtered. | **Query Params (Optional):** <br> `?level=easy` <br> `?category=technology` |
+| `GET`    | `/:id` | Gets a single article by its ID. | |
+| `PUT`    | `/:id` | Updates an article by its ID. | **Body:** `{ "title": "New Title", ... }` |
 | `DELETE` | `/:id` | Deletes an article by its ID. | |
-| `POST` | `/source` | Creates a new "Source Article". | **Body:** (Schema for `SourceArticle`) |
+| `POST`   | `/source` | Creates a new "Source Article". | **Body:** (Schema for `SourceArticle`) |
 
 ---
 
