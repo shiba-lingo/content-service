@@ -39,10 +39,7 @@ Follow these instructions to get a local copy up and running for development and
     ```
    Run container
     ```bash
-    docker run -d -p 3002:3002 \
-    -e PORT=3002 \
-    -e MONGO_URL="your_actual_db_url" \
-    shiba-content:latest
+    docker run -d -p 3002:3002 --env-file ./.env shiba-content:latest
     ```
 
 
