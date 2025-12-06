@@ -22,6 +22,13 @@ mongoose.connect(MONGO_URL)
 
 app.use('/contents', contentRouter);
 app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerSpec));
+app.get('/health', (req, res) => {
+    res.status(200).json({
+        success: true,
+        message: 'Shiba-Content is healthy 🐕',
+        timestamp: new Date().toISOString()
+    });
+});
 
 app.listen(PORT, () => {
     console.log(`Server running on port ${PORT}`);
